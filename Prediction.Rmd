@@ -1,6 +1,9 @@
 ---
-title: "Practical Machine learning Peer assessment"
+title: "PredictionAssignement"
+author: "Rosa Estriégana"
+date: "Saturday, February 21, 2015"
 output: html_document
+runtime: shiny
 ---
 
 ## Introduction
