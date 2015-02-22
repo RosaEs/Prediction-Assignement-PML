@@ -1,6 +1,8 @@
 ---
 title: "Practical Machine learning Peer assessment"
-output: html_document
+output:
+  html_document:
+    keep_md: true
 ---
 
 ## Introduction
